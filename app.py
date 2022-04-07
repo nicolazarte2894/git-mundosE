@@ -1,1 +1,2 @@
 def saludar
+def hola
